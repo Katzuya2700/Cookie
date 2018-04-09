@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    height: 800px;
+    text-align: center;
+}
+.money{
+    font-size: 50px;
+}
+
+.left-part{
+    background-color: blue;
+    width: 30%;
+}
+.middle{
+    background-color: red;
+    width: 40%;
+}
+.store{
+    background-color: yellow;
+    width: 30%;
+}
+
+.clicker{
+    height: 100px;
+    width: 100px;
+    margin-top: 50%;
+}
+
+.cursor{
+    height: 100px;
+    width: 90%;
+    position: relative;
+    border-radius: 10px;
+    background: brown;
+    color: white;
+    font-size: 30px;
+}
